@@ -9,16 +9,16 @@ Luego se exploran las distintas variables del dataset y sus distribuciones corre
 Ahora si pasamos al análisis de las distintas maneras de enfrentarnos a este problema. En resumen se aplican los siguientes métodos: 
 
 - LogisticRegression:     
-        - Penalización
-        - Subsampling
-        - Oversampling
-        - Smote-Tomek 
+    - Penalización
+    - Subsampling
+    - Oversampling
+    - Smote-Tomek 
 
 - Random forest: 
-        - Class Weighting
-        - Bootstrap Class Weighting
-        - Random Undersampling
-        - Ensemble 
+    - Class Weighting
+    - Bootstrap Class Weighting
+    - Random Undersampling
+    - Ensemble 
 
 - One class SVM 
 
